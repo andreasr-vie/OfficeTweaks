@@ -4,6 +4,7 @@
 # Credit: https://gist.github.com/mark05e
 #
 # Setzt die Lizenzierung der Office 365 Apps zurück
+# Nach dem Ausfuehren des Skripts vom Benutzer abmelden und neu anmelden
 
 $Urls = @(
 	"https://download.microsoft.com/download/e/1/b/e1bbdc16-fad4-4aa2-a309-2ba3cae8d424/OLicenseCleanup.zip",
