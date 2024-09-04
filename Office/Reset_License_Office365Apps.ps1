@@ -1,6 +1,8 @@
 # RESET OFFICE ACTIVATION STATE
 # https://docs.microsoft.com/en-us/office/troubleshoot/activation/reset-office-365-proplus-activation-state
 #
+# Credit: https://gist.github.com/mark05e
+#
 # Setzt die Lizenzierung der Office 365 Apps zurück
 
 $Urls = @(
